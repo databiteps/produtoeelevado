@@ -11,7 +11,7 @@ Meu quarto codigo desenvolvido em portugol nas aulas de programação,
 > &nbsp;&nbsp;&nbsp;&nbsp;LEIA X \
 > &nbsp;&nbsp;&nbsp;&nbsp;LEIA N
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;total = (2 * x) ** n \
+> &nbsp;&nbsp;&nbsp;&nbsp;total = (2 * x) ** n 
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;ESCREVA TOTAL\
 > FIM
